@@ -1,0 +1,125 @@
+.form {
+	background-color: #31bafd1a;
+	animation-name: back;
+	animation-duration: 10s ;	
+    width:31%;
+    height: 60%; 
+   /* margin:50px auto; */
+    margin: 72px 200px;           
+    padding: 21px 59px 21px 48px;  
+	border-radius: 2%;
+	font-family: 'Montserrat', sans-serif;
+}
+.form-signup {
+	background-color: #a5a1a021;
+	width: 30%;
+	height: 60%;
+	/* margin: 50px auto; */
+	margin: -527px 780px;
+	padding: 21px 59px 21px 48px;
+	border-radius: 2%;
+	font-family: 'Montserrat', sans-serif;
+	box-shadow: 0px 3px 5px 2px #ff795c33;
+}
+.formgroup .fname {
+    width: 38%;
+}
+.login-img {
+    margin-top: -54px;
+    text-align: center;
+}
+.login-img img {
+    width: 26%;
+}
+/*
+@keyframes back {
+	from {background-color:  #31bafd;}
+	to {background-color: #31bafd1a}
+}
+*/
+.login{
+	
+	text-align: center;
+	margin: 24px 7px 20px 5px;
+	font-size: 33px;
+	}
+
+.Sign{
+    margin: 24px 7px 20px 5px;
+	font-size: 30px;
+    text-decoration: underline;
+}
+.button{
+	margin: 33px 12px 0px 39px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+   /* box-shadow: 3px 4px #888888;*/
+    border-radius: 4%;
+    height: 53px;
+    width: 290px;
+    background-color: #4caf50;
+}
+
+.button-sub{
+	margin: 35px 15px 0px 63px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    /* box-shadow: 3px 4px #888888; */
+    border-radius: 4%;
+    height: 47px;
+    width: 215px;
+    background-color: #171442;
+    color: #e2dbdb;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+.formgroup input{
+	width: 100%;
+    padding: 12px 20px;
+    margin: 20px 37px 30px 4px;
+    display: inline-block;
+    /* box-sizing: border-box; */
+    font-size: 15px; 
+    border: 0px solid #000;
+    border-bottom: 1px solid #0000006b;
+    background-color: #90caf50a;
+}
+.formg input {
+	width: 100%;
+    padding: 9px 18px;
+    margin: 8px 0px 24px 0px;
+    display: inline-block;
+    /* box-sizing: border-box; */
+    font-size: 14px;
+    border: 0px solid #000;
+    border-bottom: 1px solid #fff5f566;
+    background-color: #ff370d1a;
+}
+
+.middle-line{
+    border-left: 2px solid black;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    top: 33px;
+}
+.word{
+	top: 234px;
+    position: absolute;
+    margin-left: -12px;
+}
+.mid-line{
+    border-left: 2px solid black;
+    height: 269px;
+    position: absolute;
+    left: 50%;
+    top: 257px;
+}    
+
+
+
+
